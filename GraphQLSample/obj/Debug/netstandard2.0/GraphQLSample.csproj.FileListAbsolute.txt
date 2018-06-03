@@ -10,9 +10,9 @@ G:\GraphQL\examples\src\AspNetWebApi\GraphQLSample\obj\Debug\netstandard2.0\Grap
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLSample\bin\Debug\netstandard2.0\GraphQLSample.deps.json
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLSample\bin\Debug\netstandard2.0\GraphQLSample.dll
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLSample\bin\Debug\netstandard2.0\GraphQLSample.pdb
-G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLSample\obj\Debug\netstandard2.0\GraphQLSample.csprojResolveAssemblyReference.cache
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLSample\obj\Debug\netstandard2.0\GraphQLSample.csproj.CoreCompileInputs.cache
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLSample\obj\Debug\netstandard2.0\GraphQLSample.AssemblyInfoInputs.cache
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLSample\obj\Debug\netstandard2.0\GraphQLSample.AssemblyInfo.cs
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLSample\obj\Debug\netstandard2.0\GraphQLSample.dll
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLSample\obj\Debug\netstandard2.0\GraphQLSample.pdb
+G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLSample\obj\Debug\netstandard2.0\GraphQLSample.csprojAssemblyReference.cache

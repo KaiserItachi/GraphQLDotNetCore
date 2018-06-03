@@ -3,7 +3,6 @@ G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\bin\Debug\netcoreapp
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\bin\Debug\netcoreapp2.0\GraphQLCore.runtimeconfig.dev.json
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\bin\Debug\netcoreapp2.0\GraphQLCore.dll
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\bin\Debug\netcoreapp2.0\GraphQLCore.pdb
-G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\obj\Debug\netcoreapp2.0\GraphQLCore.csprojResolveAssemblyReference.cache
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\obj\Debug\netcoreapp2.0\GraphQLCore.csproj.CoreCompileInputs.cache
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\obj\Debug\netcoreapp2.0\GraphQLCore.AssemblyInfoInputs.cache
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\obj\Debug\netcoreapp2.0\GraphQLCore.AssemblyInfo.cs
@@ -11,3 +10,5 @@ G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\obj\Debug\netcoreapp
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\obj\Debug\netcoreapp2.0\GraphQLCore.pdb
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\bin\Debug\netcoreapp2.0\GraphQLSample.dll
 G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\bin\Debug\netcoreapp2.0\GraphQLSample.pdb
+G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\obj\Debug\netcoreapp2.0\GraphQLCore.csprojAssemblyReference.cache
+G:\GraphQL\examples\src\GraphQLCore\GraphQLCore\GraphQLCore\obj\Debug\netcoreapp2.0\GraphQLCore.csproj.CopyComplete

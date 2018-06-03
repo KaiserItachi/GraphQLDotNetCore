@@ -31,7 +31,6 @@ namespace GraphQLCore
             services.AddSingleton<GraphqlSchema>();
 
             services.AddGraphQLHttp();
-            services.AddGraphQLWebSocket<GraphqlSchema>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,8 +43,6 @@ namespace GraphQLCore
 
             app.UseDefaultFiles();
             app.UseStaticFiles();
-            app.UseWebSockets();
-            app.UseGraphQLWebSocket<GraphqlSchema>(new GraphQLWebSocketsOptions());
             app.UseGraphQLHttp<GraphqlSchema>(new GraphQLHttpOptions());
         }
     }
