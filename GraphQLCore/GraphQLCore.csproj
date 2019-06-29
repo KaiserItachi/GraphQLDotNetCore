@@ -12,7 +12,7 @@
     <PackageReference Include="GraphQL" Version="2.0.0-alpha-912" />
     <PackageReference Include="GraphQL.Server.Transports.AspNetCore" Version="3.1.0-alpha0022" />
     <PackageReference Include="GraphQL.Server.Transports.WebSockets" Version="3.1.0-alpha0022" />
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
     <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.1.0-rc1-final" />
     <PackageReference Include="System.Reactive" Version="4.0.0" />
   </ItemGroup>
